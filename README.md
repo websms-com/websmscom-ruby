@@ -1,16 +1,14 @@
-## What is it?
------------
+What is it?
+---
+A lightweight Ruby Gem for using websms.com SMS services.
 
-  A lightweight Ruby Gem for using websms.com SMS services.
-  
-## Prerequisites
--------------
+Prerequisites
+---
 - ruby (v1.8 or higher) installed.
 - ruby-gems installed (tested with 1.3.7)
 
-
-## Install
--------
+Install
+---
 Move to the downloaded BusinessPlatformSDK-x-x-x.gem using the command-line and type: 
    
     $ gem install BusinessPlatformSDK
@@ -20,8 +18,8 @@ This will install the Ruby-Toolkit with the documentation which can be opened us
     $ gem server
 
 
-## Getting Started With The Toolkit
---------------------------------
+Getting Started With The Toolkit
+---
 
 The project can be included by using:
 
